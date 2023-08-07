@@ -1,0 +1,8 @@
+aesmix
+fusepy
+pynacl
+requests[security]
+cryptography
+cffi
+pandas
+matplotlib
